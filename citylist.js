@@ -1,5 +1,3 @@
-// Second Version of the File - with fancy comments that make it very easy for every one to understand what this file is doing. 
-// This is simply a list of cities that we use in one of our programs.
 const cityList = [
   "New York",
   "Los Angeles",
